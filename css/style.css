@@ -1,0 +1,373 @@
+#hakkımda {
+    background-color: rgb(180, 180, 180)
+}
+
+#şehrim {
+    background-color: rgb(180, 180, 180)
+}
+
+#ilgialanlarım {
+    background-color: rgb(180, 180, 180)
+}
+
+#takımım {
+    background-color: rgb(180, 180, 180)
+}
+
+#OzgecmisCv {
+    position: relative;
+    background-color: rgb(104, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#trabzonsporresim {
+    padding: 0%;
+}
+
+footer {
+    height: auto;
+    background-color: rgba(247, 247, 247, 0.602)
+}
+
+.card-body {
+    background-color: rgba(175, 175, 175, 0.3)
+}
+
+.card-title {
+    padding: 3%;
+    text-align: center;
+}
+
+
+.resim-ortala {
+    padding-top: 6%;
+    width: 100%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.trabzon {
+    margin-top: 2%;
+    text-align: center;
+}
+
+.trabzonbilgiler {
+    padding-top: 1%;
+    padding-left: 4%;
+    padding-right: 4%;
+    text-align: justify;
+}
+
+#trabzonspor {
+    padding-top: 2%;
+    text-align: center;
+}
+
+.trabzonsporyazı {
+    padding-top: 1%;
+    padding-left: 4%;
+    padding-right: 4%;
+    text-align: justify;
+}
+.card-text {
+    text-align: justify;
+}
+
+#icon1 {
+    display: inline-block;
+    width: 30px;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+h4 {
+    padding-top: 2%;
+    text-align: center;
+}
+
+.özgeçmiş {
+    position: relative;
+    width: 100%;
+    max-width: 1150px;
+    min-height: 1000px;
+    background-color: #fff;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    box-shadow: 0 35px 35px rgb(67, 66, 66);
+}
+
+.özgeçmiş .sol {
+    position: relative;
+    background-color: #6e0101;
+    padding: 40px;
+}
+
+.özgeçmiş .sağ {
+    position: relative;
+    background-color: #dcdbdb;
+    padding: 40px;
+
+}
+
+.ProfilYazisi {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+
+}
+
+.ProfilYazisi h2 {
+    color: #fff;
+    font-size: 1.5em;
+    margin-top: 21px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 605;
+    line-height: 1.4em;
+}
+
+.ProfilYazisi h2 span {
+    color: #fff;
+    font-size: 0.8em;
+    font-weight: 302;
+}
+
+.iletisimbilgileri {
+    padding-top: 2%;
+}
+
+.iletisimtext {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 605;
+    letter-spacing: 1px;
+    margin-bottom: 5%;
+}
+
+.iletisimbilgileri ul {
+    position: relative;
+
+}
+
+.iletisimbilgileri ul li {
+    list-style: none;
+    margin: 2% 0;
+    cursor: pointer;
+}
+
+.iletisimbilgileri ul li .icon {
+    display: inline-block;
+    width: 32px;
+    font-size: 19px;
+    color: rgb(36, 32, 246);
+}
+
+.iletisimbilgileri ul li span {
+    color: #fff;
+    font-weight: 300;
+}
+
+.egitimtext {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 601;
+    letter-spacing: 1px;
+    margin-bottom: 5%;
+}
+
+.egitimbilgileri li {
+    list-style: none;
+    margin-bottom: 16px;
+}
+
+.egitimbilgileri h5 {
+    color: #ffffff;
+    font-weight: 501;
+}
+
+.egitimbilgileri h4 {
+    color: #fff;
+    font-weight: 301;
+}
+
+.egitimbilgileri h6 {
+    color: #fff;
+    font-weight: 201;
+    text-align: center;
+}
+
+.dilbilgileri li {
+    list-style: none;
+}
+
+.diltext {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 5%;
+}
+
+.dilbilgileri .text {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 5%;
+}
+
+.dilbilgileri .percent {
+    position: relative;
+    width: 100%;
+    height: 6px;
+    background-color: #ffffff;
+    display: block;
+    margin-top: 2%;
+}
+
+.dilbilgileri .percent div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background-color: rgb(63, 53, 249);
+}
+
+.title2 {
+    margin-top: 6%;
+}
+
+.yetenekler .box {
+    position: relative;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    justify-content: left;
+    align-items: center;
+}
+
+.yetenekler .box h4 {
+    text-align: left;
+    text-transform: uppercase;
+    color: #081921;
+    font-weight: 600;
+}
+
+.yetenekler .box .percent {
+    position: relative;
+    width: 100%;
+    height: 10px;
+    background-color: #f6f0f0;
+}
+
+.yetenekler .box .percent div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background-color: rgb(9, 15, 118);
+}
+
+.ilgiAlanlari ul {
+    display: grid;
+}
+
+.ilgiAlanlari ul li {
+    list-style: none;
+    color: #333;
+    font-weight: 500;
+    margin: 2% 0;
+}
+
+.ilgiAlanlari ul li i {
+    color: rgb(30, 0, 108);
+    font-size: 20px;
+    width: 20px;
+    margin-right: 3%;
+}
+
+@media(max-width:1000px) {
+    .container_cv {
+        margin: 0px;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+.card.h-100 {
+    margin: 4%;
+}
+
+#col-ia {
+    padding: 1%;
+    width: 46%;
+    margin-left: 3%;
+}
+
+.searchBox {
+    margin-left: 3%;
+}
+
+.input-group-text {
+    display: inline-block;
+}
+
+#Login {
+    position: relative;
+    background-color: rgb(0, 2, 55);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.login-block {
+    text-align: left;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    background-color: #fff;
+    grid-template-columns: 1fr 2fr;
+}
+
+#ortaladiv {
+    text-align: center;
+} 
+
+#govdekismi {
+    text-align: center;
+}
+
+#Girisonaylabuton {
+    margin-top: 3%;
+    background-color: rgb(135, 135, 135);
+    color: rgb(255, 255, 255);
+}
+#butoniltşm {
+    margin-top: 3%;
+    background-color: rgb(135, 135, 135);
+    color: rgb(255, 255, 255);
+}
+
+#iletişim {
+    background-color: rgb(107, 85, 65);
+    min-height: 100vh;
+}
+
+.iletisimyazı {
+    color: #000000;
+}
+
+#iletişimphp {
+    background-color: rgb(255, 255, 255);
+}
+
+#basliklar{
+    text-align: justify;
+}
